@@ -1,3 +1,11 @@
 {
-    "title": "《佛说人生》罗江涛·著"
+    "title": "《佛说人生》罗江涛·著",
+    "plugins": [
+        "baidu-tongji"
+    ],
+    "pluginsConfig": {
+        "baidu-tongji": {
+            "siteid": "f564423a528d72f8a4a7939c8d506c4c"
+        }
+    }
 }
